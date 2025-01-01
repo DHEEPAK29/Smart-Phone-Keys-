@@ -2,22 +2,14 @@
 Objective: 
 
 Components: 
-
-• Raspberry pi or Arduino as ELECTRONIC MICROCONTROLLER for Vehicles.
-
-• Bluetooth used for AUTHENTICATION.
-
-• Smart phone is a key and Application is the tool to connect microcontroller present in the Vehicle.
-
-• Then we will keep our Bluetooth ON in our smart phone , so when we get near to the vehicle it will automatically connect and waits for authentication.
-
-• After Authentication , The vehicle is ready for Ignition.
-
-• When we get out of the Vehicle it will turn OFF and locked after authentication based on mode used in Application by user. 
-
-• Encryption and Decryption is incorporated to make it a highly secure Next-generation model. 
+Raspberry Pi or Arduino: Serves as the electronic microcontroller for vehicles.
+Bluetooth: Utilized for authentication.
+Smartphone: Acts as the key, with the application being the tool to connect to the microcontroller in the vehicle.
+Bluetooth Activation: When the Bluetooth on the smartphone is turned on and the user is near the vehicle, it will automatically connect and await authentication.
+Authentication: Once authenticated, the vehicle is ready for ignition.
+Automatic Shut-Off: When the user exits the vehicle, it will turn off and lock after authentication, based on the mode used in the application by the user.
+Encryption and Decryption: Incorporated to make it a highly secure next-generation model.
 
 ![Leonardo_Phoenix_09_updatedpromptIllustrate_a_sleek_and_modern_1](https://github.com/user-attachments/assets/26c8d13f-0daa-400d-a3fc-445d718ba348)
-
 
 USP: 
